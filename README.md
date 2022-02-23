@@ -4,7 +4,7 @@ This project I've learned a lot about how the DOM works behind the scenes, about
 
 ### Presentation
 
-![Bankinst Website Presentation](/BankistPresentation.gif)
+![Bankist Website Presentation](/img/BankistPresentation.gif)
 
 ### Credits
 
